@@ -61,5 +61,5 @@ To view the uploaded image, visit:
 http://localhost:8080/media/IMAGE_FILE_NAME
 ```
 
-This will display the image that you uploaded.
+This should display the image that you uploaded.
 
