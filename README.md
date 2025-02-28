@@ -5,7 +5,7 @@ This repo contains a containerized Flask web application that integrates with Po
 
 ## Example Upload
 ### Uploading Image
-![Uploading Image](flask-on-docker.gif)
+![Uploading Image](docker_on_flask.gif)
 
 ## Build Instructions
 To set up and run the Flask application within Docker, follow these steps:
